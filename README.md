@@ -1,2 +1,29 @@
 # pagina
 una pagina creada para el aprendizaje y el conocimiento de la musica
+<!DOCTYPE HTML PUBLIC>
+<HTML>
+<HEAD>  
+       <TITLE> principal </TITLE>
+</HEAD>
+<BODY BACKGROUND="C:\Users\Jesus\Documents\PAGINA WEB\Ecenario.JPG">
+
+            <FONT COLOR=white><CENTER><H1><B>Home Principal </B></H1></CENTER></FONT>
+
+<HR SIZE="15" COLOR="
+Gray">
+       <FONT COLOR=white><FONT FACE="Baskerville Old Face"><FONT SIZE="7"><CENTER> Música </CENTER></FONT>
+<BR>
+
+    <FONT SIZE="7"><FONT FACE="Gabriola">¿Te gustaría aprender un poco más sobre la música?</FONT>
+<BR>
+<A HREF="file:///C:/Users/Jesus/Documents/PAGINA%20WEB/la%20musica.html">La música </A>
+<BR>
+<A HREF="file:///C:/Users/Jesus/Documents/PAGINA%20WEB/musica%20CODIGO%202.HTML"> Generos</A>
+<BR>
+<A HREF="file:///C:/Users/Jesus/Documents/PAGINA%20WEB/codigo3.html"> Origenes</A>
+                         
+                            
+
+<IMG SRC="C:\Users\Jesus\Documents\PAGINA WEB\clasic.JPG" ALIGN=RIGHT>
+<BR>
+<IMG SRC= "C:\Users\Jesus\Documents\PAGINA WEB\CONCIERTO.JPG" ALIGN=LEFT>
